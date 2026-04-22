@@ -1,0 +1,13 @@
+[project]
+name = "openrice-scraper"
+version = "0.1.0"
+description = "Web scraper for OpenRice Hong Kong restaurant data"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.28.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff",
+]

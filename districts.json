@@ -1,0 +1,695 @@
+[
+  {
+    "id": -35318,
+    "name_en": "Kai Tak",
+    "name_zh": "啟德",
+    "count": 239,
+    "searchKey": "districtId=-35318"
+  },
+  {
+    "id": -35260,
+    "name_en": "Po Lam",
+    "name_zh": "寶琳",
+    "count": 200,
+    "searchKey": "districtId=-35260"
+  },
+  {
+    "id": -35259,
+    "name_en": "Hang Hau",
+    "name_zh": "坑口",
+    "count": 182,
+    "searchKey": "districtId=-35259"
+  },
+  {
+    "id": -35244,
+    "name_en": "Sai Ying Pun",
+    "name_zh": "西營盤",
+    "count": 375,
+    "searchKey": "districtId=-35244"
+  },
+  {
+    "id": -35243,
+    "name_en": "Shek Tong Tsui",
+    "name_zh": "石塘咀",
+    "count": 184,
+    "searchKey": "districtId=-35243"
+  },
+  {
+    "id": -35242,
+    "name_en": "Kennedy Town",
+    "name_zh": "堅尼地城",
+    "count": 235,
+    "searchKey": "districtId=-35242"
+  },
+  {
+    "id": -9151,
+    "name_en": "Cyberport",
+    "name_zh": "數碼港",
+    "count": 29,
+    "searchKey": "districtId=-9151"
+  },
+  {
+    "id": -9008,
+    "name_en": "Knutsford Terrace",
+    "name_zh": "諾士佛臺",
+    "count": 62,
+    "searchKey": "districtId=-9008"
+  },
+  {
+    "id": -9007,
+    "name_en": "Lan Kwai Fong",
+    "name_zh": "蘭桂坊",
+    "count": 137,
+    "searchKey": "districtId=-9007"
+  },
+  {
+    "id": -9006,
+    "name_en": "Soho",
+    "name_zh": "蘇豪",
+    "count": 241,
+    "searchKey": "districtId=-9006"
+  },
+  {
+    "id": 1001,
+    "name_en": "Sheung Wan",
+    "name_zh": "上環",
+    "count": 561,
+    "searchKey": "districtId=1001"
+  },
+  {
+    "id": 1002,
+    "name_en": "The Peak",
+    "name_zh": "山頂",
+    "count": 42,
+    "searchKey": "districtId=1002"
+  },
+  {
+    "id": 1003,
+    "name_en": "Central",
+    "name_zh": "中環",
+    "count": 1593,
+    "searchKey": "districtId=1003"
+  },
+  {
+    "id": 1004,
+    "name_en": "North Point",
+    "name_zh": "北角",
+    "count": 549,
+    "searchKey": "districtId=1004"
+  },
+  {
+    "id": 1005,
+    "name_en": "Mid-Levels",
+    "name_zh": "半山",
+    "count": 75,
+    "searchKey": "districtId=1005"
+  },
+  {
+    "id": 1007,
+    "name_en": "Shek O",
+    "name_zh": "石澳",
+    "count": 28,
+    "searchKey": "districtId=1007"
+  },
+  {
+    "id": 1008,
+    "name_en": "Western District",
+    "name_zh": "西環",
+    "count": 809,
+    "searchKey": "districtId=1008"
+  },
+  {
+    "id": 1009,
+    "name_en": "Sai Wan Ho",
+    "name_zh": "西灣河",
+    "count": 183,
+    "searchKey": "districtId=1009"
+  },
+  {
+    "id": 1010,
+    "name_en": "Stanley",
+    "name_zh": "赤柱",
+    "count": 49,
+    "searchKey": "districtId=1010"
+  },
+  {
+    "id": 1011,
+    "name_en": "Admiralty",
+    "name_zh": "金鐘",
+    "count": 205,
+    "searchKey": "districtId=1011"
+  },
+  {
+    "id": 1012,
+    "name_en": "Aberdeen",
+    "name_zh": "香港仔",
+    "count": 255,
+    "searchKey": "districtId=1012"
+  },
+  {
+    "id": 1013,
+    "name_en": "Chai Wan",
+    "name_zh": "柴灣",
+    "count": 299,
+    "searchKey": "districtId=1013"
+  },
+  {
+    "id": 1014,
+    "name_en": "Quarry Bay",
+    "name_zh": "鰂魚涌",
+    "count": 277,
+    "searchKey": "districtId=1014"
+  },
+  {
+    "id": 1015,
+    "name_en": "Repulse Bay",
+    "name_zh": "淺水灣",
+    "count": 28,
+    "searchKey": "districtId=1015"
+  },
+  {
+    "id": 1016,
+    "name_en": "Deep Water Bay",
+    "name_zh": "深水灣",
+    "count": 13,
+    "searchKey": "districtId=1016"
+  },
+  {
+    "id": 1017,
+    "name_en": "Happy Valley",
+    "name_zh": "跑馬地",
+    "count": 138,
+    "searchKey": "districtId=1017"
+  },
+  {
+    "id": 1018,
+    "name_en": "Shau Kei Wan",
+    "name_zh": "筲箕灣",
+    "count": 226,
+    "searchKey": "districtId=1018"
+  },
+  {
+    "id": 1019,
+    "name_en": "Causeway Bay",
+    "name_zh": "銅鑼灣",
+    "count": 1290,
+    "searchKey": "districtId=1019"
+  },
+  {
+    "id": 1020,
+    "name_en": "Ap Lei Chau",
+    "name_zh": "鴨脷洲",
+    "count": 138,
+    "searchKey": "districtId=1020"
+  },
+  {
+    "id": 1021,
+    "name_en": "Pok Fu Lam",
+    "name_zh": "薄扶林",
+    "count": 77,
+    "searchKey": "districtId=1021"
+  },
+  {
+    "id": 1022,
+    "name_en": "Wan Chai",
+    "name_zh": "灣仔",
+    "count": 1281,
+    "searchKey": "districtId=1022"
+  },
+  {
+    "id": 1023,
+    "name_en": "Tai Koo",
+    "name_zh": "太古",
+    "count": 244,
+    "searchKey": "districtId=1023"
+  },
+  {
+    "id": 1024,
+    "name_en": "Heng Fa Chuen",
+    "name_zh": "杏花邨",
+    "count": 36,
+    "searchKey": "districtId=1024"
+  },
+  {
+    "id": 1025,
+    "name_en": "Tai Hang",
+    "name_zh": "大坑",
+    "count": 86,
+    "searchKey": "districtId=1025"
+  },
+  {
+    "id": 1026,
+    "name_en": "Tin Hau",
+    "name_zh": "天后",
+    "count": 212,
+    "searchKey": "districtId=1026"
+  },
+  {
+    "id": 1027,
+    "name_en": "Wong Chuk Hang",
+    "name_zh": "黃竹坑",
+    "count": 235,
+    "searchKey": "districtId=1027"
+  },
+  {
+    "id": 1999,
+    "name_en": "Hong Kong Island",
+    "name_zh": "香港島",
+    "count": 8930,
+    "searchKey": "districtId=1999"
+  },
+  {
+    "id": 2001,
+    "name_en": "Kowloon City",
+    "name_zh": "九龍城",
+    "count": 620,
+    "searchKey": "districtId=2001"
+  },
+  {
+    "id": 2002,
+    "name_en": "Kowloon Tong",
+    "name_zh": "九龍塘",
+    "count": 138,
+    "searchKey": "districtId=2002"
+  },
+  {
+    "id": 2003,
+    "name_en": "Kowloon Bay",
+    "name_zh": "九龍灣",
+    "count": 580,
+    "searchKey": "districtId=2003"
+  },
+  {
+    "id": 2004,
+    "name_en": "To Kwa Wan",
+    "name_zh": "土瓜灣",
+    "count": 438,
+    "searchKey": "districtId=2004"
+  },
+  {
+    "id": 2005,
+    "name_en": "Tai Kok Tsui",
+    "name_zh": "大角咀",
+    "count": 491,
+    "searchKey": "districtId=2005"
+  },
+  {
+    "id": 2006,
+    "name_en": "Ngau Tau Kok",
+    "name_zh": "牛頭角",
+    "count": 159,
+    "searchKey": "districtId=2006"
+  },
+  {
+    "id": 2007,
+    "name_en": "Shek Kip Mei",
+    "name_zh": "石硤尾",
+    "count": 112,
+    "searchKey": "districtId=2007"
+  },
+  {
+    "id": 2008,
+    "name_en": "Tsim Sha Tsui",
+    "name_zh": "尖沙咀",
+    "count": 2108,
+    "searchKey": "districtId=2008"
+  },
+  {
+    "id": 2009,
+    "name_en": "Ho Man Tin",
+    "name_zh": "何文田",
+    "count": 112,
+    "searchKey": "districtId=2009"
+  },
+  {
+    "id": 2010,
+    "name_en": "Mong Kok",
+    "name_zh": "旺角",
+    "count": 1362,
+    "searchKey": "districtId=2010"
+  },
+  {
+    "id": 2011,
+    "name_en": "Yau Ma Tei",
+    "name_zh": "油麻地",
+    "count": 309,
+    "searchKey": "districtId=2011"
+  },
+  {
+    "id": 2012,
+    "name_en": "Yau Tong",
+    "name_zh": "油塘",
+    "count": 125,
+    "searchKey": "districtId=2012"
+  },
+  {
+    "id": 2013,
+    "name_en": "Cheung Sha Wan",
+    "name_zh": "長沙灣",
+    "count": 452,
+    "searchKey": "districtId=2013"
+  },
+  {
+    "id": 2015,
+    "name_en": "Hung Hom",
+    "name_zh": "紅磡",
+    "count": 684,
+    "searchKey": "districtId=2015"
+  },
+  {
+    "id": 2016,
+    "name_en": "Lai Chi Kok",
+    "name_zh": "荔枝角",
+    "count": 370,
+    "searchKey": "districtId=2016"
+  },
+  {
+    "id": 2019,
+    "name_en": "Sham Shui Po",
+    "name_zh": "深水埗",
+    "count": 835,
+    "searchKey": "districtId=2019"
+  },
+  {
+    "id": 2020,
+    "name_en": "Wong Tai Sin",
+    "name_zh": "黃大仙",
+    "count": 220,
+    "searchKey": "districtId=2020"
+  },
+  {
+    "id": 2021,
+    "name_en": "Tsz Wan Shan",
+    "name_zh": "慈雲山",
+    "count": 97,
+    "searchKey": "districtId=2021"
+  },
+  {
+    "id": 2022,
+    "name_en": "San Po Kong",
+    "name_zh": "新蒲崗",
+    "count": 357,
+    "searchKey": "districtId=2022"
+  },
+  {
+    "id": 2024,
+    "name_en": "Lam Tin",
+    "name_zh": "藍田",
+    "count": 170,
+    "searchKey": "districtId=2024"
+  },
+  {
+    "id": 2025,
+    "name_en": "Lei Yue Mun",
+    "name_zh": "鯉魚門",
+    "count": 41,
+    "searchKey": "districtId=2025"
+  },
+  {
+    "id": 2026,
+    "name_en": "Kwun Tong",
+    "name_zh": "觀塘",
+    "count": 1303,
+    "searchKey": "districtId=2026"
+  },
+  {
+    "id": 2027,
+    "name_en": "Diamond Hill",
+    "name_zh": "鑽石山",
+    "count": 112,
+    "searchKey": "districtId=2027"
+  },
+  {
+    "id": 2028,
+    "name_en": "Jordan",
+    "name_zh": "佐敦",
+    "count": 599,
+    "searchKey": "districtId=2028"
+  },
+  {
+    "id": 2029,
+    "name_en": "Prince Edward",
+    "name_zh": "太子",
+    "count": 442,
+    "searchKey": "districtId=2029"
+  },
+  {
+    "id": 2030,
+    "name_en": "Lok Fu",
+    "name_zh": "樂富",
+    "count": 101,
+    "searchKey": "districtId=2030"
+  },
+  {
+    "id": 2031,
+    "name_en": "Mei Foo",
+    "name_zh": "美孚",
+    "count": 111,
+    "searchKey": "districtId=2031"
+  },
+  {
+    "id": 2032,
+    "name_en": "Choi Hung",
+    "name_zh": "彩虹",
+    "count": 81,
+    "searchKey": "districtId=2032"
+  },
+  {
+    "id": 2999,
+    "name_en": "Kowloon",
+    "name_zh": "九龍",
+    "count": 12529,
+    "searchKey": "districtId=2999"
+  },
+  {
+    "id": 3001,
+    "name_en": "Sheung Shui",
+    "name_zh": "上水",
+    "count": 335,
+    "searchKey": "districtId=3001"
+  },
+  {
+    "id": 3002,
+    "name_en": "Tai Po",
+    "name_zh": "大埔",
+    "count": 671,
+    "searchKey": "districtId=3002"
+  },
+  {
+    "id": 3003,
+    "name_en": "Yuen Long",
+    "name_zh": "元朗",
+    "count": 1486,
+    "searchKey": "districtId=3003"
+  },
+  {
+    "id": 3004,
+    "name_en": "Tin Shui Wai",
+    "name_zh": "天水圍",
+    "count": 417,
+    "searchKey": "districtId=3004"
+  },
+  {
+    "id": 3005,
+    "name_en": "Tuen Mun",
+    "name_zh": "屯門",
+    "count": 1395,
+    "searchKey": "districtId=3005"
+  },
+  {
+    "id": 3006,
+    "name_en": "Sai Kung",
+    "name_zh": "西貢",
+    "count": 306,
+    "searchKey": "districtId=3006"
+  },
+  {
+    "id": 3007,
+    "name_en": "Sha Tin",
+    "name_zh": "沙田",
+    "count": 905,
+    "searchKey": "districtId=3007"
+  },
+  {
+    "id": 3008,
+    "name_en": "Fanling",
+    "name_zh": "粉嶺",
+    "count": 397,
+    "searchKey": "districtId=3008"
+  },
+  {
+    "id": 3009,
+    "name_en": "Ma On Shan",
+    "name_zh": "馬鞍山",
+    "count": 360,
+    "searchKey": "districtId=3009"
+  },
+  {
+    "id": 3010,
+    "name_en": "Sham Tseng",
+    "name_zh": "深井",
+    "count": 41,
+    "searchKey": "districtId=3010"
+  },
+  {
+    "id": 3011,
+    "name_en": "Lo Wu",
+    "name_zh": "羅湖",
+    "count": 4,
+    "searchKey": "districtId=3011"
+  },
+  {
+    "id": 3012,
+    "name_en": "Tai Wai",
+    "name_zh": "大圍",
+    "count": 360,
+    "searchKey": "districtId=3012"
+  },
+  {
+    "id": 3013,
+    "name_en": "Fo Tan",
+    "name_zh": "火炭",
+    "count": 177,
+    "searchKey": "districtId=3013"
+  },
+  {
+    "id": 3014,
+    "name_en": "Tai Wo",
+    "name_zh": "太和",
+    "count": 58,
+    "searchKey": "districtId=3014"
+  },
+  {
+    "id": 3015,
+    "name_en": "Kwai Fong",
+    "name_zh": "葵芳",
+    "count": 356,
+    "searchKey": "districtId=3015"
+  },
+  {
+    "id": 3016,
+    "name_en": "Lau Fau shan",
+    "name_zh": "流浮山",
+    "count": 37,
+    "searchKey": "districtId=3016"
+  },
+  {
+    "id": 3017,
+    "name_en": "Tsing Yi",
+    "name_zh": "青衣",
+    "count": 263,
+    "searchKey": "districtId=3017"
+  },
+  {
+    "id": 3018,
+    "name_en": "Tsuen Wan",
+    "name_zh": "荃灣",
+    "count": 1419,
+    "searchKey": "districtId=3018"
+  },
+  {
+    "id": 3019,
+    "name_en": "Kwai Chung",
+    "name_zh": "葵涌",
+    "count": 579,
+    "searchKey": "districtId=3019"
+  },
+  {
+    "id": 3020,
+    "name_en": "Tseung Kwan O",
+    "name_zh": "將軍澳",
+    "count": 818,
+    "searchKey": "districtId=3020"
+  },
+  {
+    "id": 3021,
+    "name_en": "Lok Ma Chau",
+    "name_zh": "落馬洲",
+    "count": 10,
+    "searchKey": "districtId=3021"
+  },
+  {
+    "id": 3022,
+    "name_en": "Ma Wan",
+    "name_zh": "馬灣",
+    "count": 47,
+    "searchKey": "districtId=3022"
+  },
+  {
+    "id": 3999,
+    "name_en": "New Territories",
+    "name_zh": "新界",
+    "count": 10441,
+    "searchKey": "districtId=3999"
+  },
+  {
+    "id": 4001,
+    "name_en": "Lantau Island",
+    "name_zh": "大嶼山",
+    "count": 125,
+    "searchKey": "districtId=4001"
+  },
+  {
+    "id": 4002,
+    "name_en": "Chek Lap Kok",
+    "name_zh": "赤鱲角",
+    "count": 181,
+    "searchKey": "districtId=4002"
+  },
+  {
+    "id": 4003,
+    "name_en": "Peng Chau",
+    "name_zh": "坪洲",
+    "count": 38,
+    "searchKey": "districtId=4003"
+  },
+  {
+    "id": 4004,
+    "name_en": "Cheung Chau",
+    "name_zh": "長洲",
+    "count": 212,
+    "searchKey": "districtId=4004"
+  },
+  {
+    "id": 4005,
+    "name_en": "Lamma Island",
+    "name_zh": "南丫島",
+    "count": 76,
+    "searchKey": "districtId=4005"
+  },
+  {
+    "id": 4006,
+    "name_en": "Discovery Bay",
+    "name_zh": "愉景灣",
+    "count": 50,
+    "searchKey": "districtId=4006"
+  },
+  {
+    "id": 4009,
+    "name_en": "Tung Chung",
+    "name_zh": "東涌",
+    "count": 227,
+    "searchKey": "districtId=4009"
+  },
+  {
+    "id": 4010,
+    "name_en": "Tai O",
+    "name_zh": "大澳",
+    "count": 74,
+    "searchKey": "districtId=4010"
+  },
+  {
+    "id": 4011,
+    "name_en": "Po Toi Island",
+    "name_zh": "蒲苔島",
+    "count": 8,
+    "searchKey": "districtId=4011"
+  },
+  {
+    "id": 4999,
+    "name_en": "Outlying Islands",
+    "name_zh": "離島",
+    "count": 991,
+    "searchKey": "districtId=4999"
+  }
+]
