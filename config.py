@@ -21,7 +21,7 @@ DISTRICTS = {
     "yuen_long": {"id": 3003, "name_en": "Yuen Long", "name_zh": "元朗"},
     "sheung_shui": {"id": 3001, "name_en": "Sheung Shui", "name_zh": "上水"},
     "fanling": {"id": 3008, "name_en": "Fanling", "name_zh": "粉嶺"},
-    "tin_shui_wai":{"id":3004, "name_en": "Tin Shui Wai", ""name_zh": "天水圍"},
+    "tin_shui_wai": {"id": 3004, "name_en": "Tin Shui Wai", "name_zh": "天水圍"},
 }
 
 # Request settings
